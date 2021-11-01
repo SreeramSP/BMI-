@@ -1,0 +1,1 @@
+This app is suitable for children below 13 years old as this app is used to calculate the BMI of humans.
